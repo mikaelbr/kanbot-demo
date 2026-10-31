@@ -1,0 +1,5 @@
+{
+  "name": "tipcalc",
+  "type": "module",
+  "scripts": { "test": "bun test" }
+}
