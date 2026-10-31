@@ -1,0 +1,8 @@
+# yaml-language-server: $schema=./config.schema.json
+
+provider: claude
+repo: mikaelbr/kanbot-demo
+baseBranch: main
+project:
+  owner: mikaelbr
+  number: 4
